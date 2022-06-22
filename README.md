@@ -5,7 +5,7 @@ The idea for this project came from a [reply](https://twitter.com/0xlght/status/
 Inspired by [Sunday FM](sunday.fm), this website will play an endless loop of white noise, encouraging listeners to be present.
 
 ## Approach
-I wanted to emulate the simple layout of Sunday FM. But use the Visualize Value font family and black and white palette. 
+I wanted to emulate the simple layout of Sunday FM. But use the Visualize Value font family and black and white palette and the visual Jack used in his initial tweet. 
 
 At the time of creating this project, I am approx. 60% through the Foundation section of [The Odin Project](https://theodinproject.com). Using my knowledge of basic HTML and CSS styling and Flexbox, along with some additional internet searching, I have been able to create this project.
 
