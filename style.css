@@ -38,12 +38,6 @@ ul {
     max-width: 20em;
 }
 
-.btn {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-}
-
 .footer {
     display: flex;
     font-family: t26-carbon, monospace;
