@@ -20,3 +20,4 @@ Summary of learnings:
 - Using, and modifying scripts created by others to solve a problem I was having.
 - HTML
 - CSS, Flexbox
+- Open Graph protocol
